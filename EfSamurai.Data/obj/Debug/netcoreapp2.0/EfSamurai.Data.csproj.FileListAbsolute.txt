@@ -1,0 +1,6 @@
+C:\Project\EntityFramework\EfSamurai.Data\bin\Debug\netcoreapp2.0\EfSamurai.Data.deps.json
+C:\Project\EntityFramework\EfSamurai.Data\bin\Debug\netcoreapp2.0\EfSamurai.Data.dll
+C:\Project\EntityFramework\EfSamurai.Data\obj\Debug\netcoreapp2.0\EfSamurai.Data.csprojResolveAssemblyReference.cache
+C:\Project\EntityFramework\EfSamurai.Data\obj\Debug\netcoreapp2.0\EfSamurai.Data.csproj.CoreCompileInputs.cache
+C:\Project\EntityFramework\EfSamurai.Data\obj\Debug\netcoreapp2.0\EfSamurai.Data.AssemblyInfoInputs.cache
+C:\Project\EntityFramework\EfSamurai.Data\obj\Debug\netcoreapp2.0\EfSamurai.Data.AssemblyInfo.cs
